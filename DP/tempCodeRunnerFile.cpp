@@ -1,7 +1,4 @@
-bst.insert(18);
-	// bst.insert(5);
-	// bst.insert(15);
-	// bst.insert(17);
-	// bst.insert(25);
-	// bst.insert(40);
-	// bst.insert(80);
+for (auto it=bst.begin(); it!=bst.end(); ++it) {
+	// 		cout << "<"<<(*it).first << " " << (*it).second << ">   ";
+	// 	}
+	// cout <
